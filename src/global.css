@@ -1,0 +1,27 @@
+body {
+  /*height: 5000px;
+  background-color: lightgreen;
+  background-image: url(/src/assets/images/6.jpg);
+  background-size: cover;*/
+}
+
+body .products-section .container .row .col-lg-3 {
+  margin-bottom: 20px;
+}
+
+body .products-section .container .row .col-lg-3 .card .card-img-top {
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+body .navbar .collapse .navbar-brand .e-logo {
+  width: 50px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+body .footer .container .row .col-lg-4 p a {
+  color: #fff !important;
+}
+/*# sourceMappingURL=global.css.map */
